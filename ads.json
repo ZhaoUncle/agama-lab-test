@@ -1,1 +1,18 @@
-{}
+{
+    "test": {
+        "projectName": "test",
+        "description": "test",
+        "type": "community",
+        "author": "ZhaoUncle",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/ZhaoUncle/agama-lab-test",
+        "githubUri": "https://github.com/ZhaoUncle/agama-lab-test",
+        "license": "apache-2.0",
+        "lastUpdated": "1700029923465",
+        "tags": [
+            "jans"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
